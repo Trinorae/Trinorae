@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Stef
 
-<!--
-**Trinorae/Trinorae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer focused on system design, architecture, and AI-native development.
+I'm currently building tools around coding agents and speech. 
 
-Here are some ideas to get you started:
+🌐 [norareit.com](https://norareit.com) · 💼 [LinkedIn](https://linkedin.com/in/...)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- **[AgentRite](https://github.com/norareit/AgentRite)**: open-source orchestration toolkit for coding agents.
+- **[AloudRite](https://github.com/norareit/AloudRite-intellij)**: IntelliJ plugin that reads Markdown and agent specs aloud with local text-to-speech.
+- **[harness-telemetry](https://github.com/norareit/harness-telemetry)**: self-hosted token and cost tracking for coding agents across devices.
+
+## Open source contributions
+
+- **[sherpa-onnx]([https://github.com/k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx/pulls?q=is:pr+author:Trinorae+is:merged))**
