@@ -15,4 +15,4 @@ I'm currently building tools around coding agents and speech.
 ## Open source contributions
 
 - **[sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx/pulls?q=is:pr+author:Trinorae+is:merged)**
-- **[piper-phonemize](https://github.com/csukuangfj/piper-phonemize/pulls?q=is:pr+author:Trinorae+is:merged)
+- **[piper-phonemize](https://github.com/csukuangfj/piper-phonemize/pulls?q=is:pr+author:Trinorae+is:merged)**
